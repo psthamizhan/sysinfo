@@ -2,4 +2,6 @@
 Get a System Informations
 
 
-This program test ny windows machines..!
+This program test by windows machines..!
+
+Any feedback about this program, Give a comment...!
